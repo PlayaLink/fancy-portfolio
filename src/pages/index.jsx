@@ -160,7 +160,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Jordan England-Nelson.
           </BigTitle>
-          <Subtitle>I like thinking about users and building solutions for their problems.</Subtitle>
+          <Subtitle>I like thinking about users <br/> and building solutions <br/> for their problems.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
